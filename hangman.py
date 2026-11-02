@@ -1,4 +1,4 @@
-import random
+himport random
 
 def play_hangman():
     # 1. Predefined list of 5 words (as required by CodeAlpha)
